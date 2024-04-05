@@ -4,17 +4,14 @@
     <title>Posts on 豆瓣酱的博客</title>
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on 豆瓣酱的博客</description>
+    <image>
+      <title>豆瓣酱的博客</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 03 Apr 2024 18:09:22 +0800</lastBuildDate>
+    <language>zh-CN</language>
+    <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Wed, 03 Apr 2024 18:09:22 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.
-Visit the Hugo website!</description>
-    </item>
   </channel>
 </rss>
